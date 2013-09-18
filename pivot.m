@@ -1,4 +1,3 @@
-
 function R=pivot(M,i,j)
 [m,n]=size(M);
 pivotNum=M(i,j);%get the pivot number
